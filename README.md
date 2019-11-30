@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to your Static Currency Exchange chart
 
 You can use the [editor on GitHub](https://github.com/PiiXiieeS/StaticCurrencyExchange/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
